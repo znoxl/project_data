@@ -1,0 +1,36 @@
+
+    {
+        "get": [
+          { "id": 1, "Name": "Samsung Galaxy S24", "Brand": "Samsung", "Price": "12000", "Wholesale-Price": "11000", "Quantity": "50" },
+          { "id": 2, "Name": "iPhone 15 Pro Max", "Brand": "Apple", "Price": "18000", "Wholesale-Price": "17000", "Quantity": "30" },
+          { "id": 3, "Name": "Lenovo ThinkPad X1", "Brand": "Lenovo", "Price": "4500", "Wholesale-Price": "4000", "Quantity": "25" },
+          { "id": 4, "Name": "HP Spectre x360", "Brand": "HP", "Price": "8500", "Wholesale-Price": "8000", "Quantity": "40" },
+          { "id": 5, "Name": "Dell XPS 13", "Brand": "Dell", "Price": "9500", "Wholesale-Price": "9000", "Quantity": "20" },
+          { "id": 6, "Name": "Google Pixel 8", "Brand": "Google", "Price": "10000", "Wholesale-Price": "9500", "Quantity": "35" },
+          { "id": 7, "Name": "OnePlus 11", "Brand": "OnePlus", "Price": "7500", "Wholesale-Price": "7000", "Quantity": "50" },
+          { "id": 8, "Name": "Samsung QLED TV", "Brand": "Samsung", "Price": "20000", "Wholesale-Price": "19000", "Quantity": "10" },
+          { "id": 9, "Name": "Sony Xperia 1 IV", "Brand": "Sony", "Price": "14000", "Wholesale-Price": "13000", "Quantity": "15" },
+          { "id": 10, "Name": "Microsoft Surface Laptop 5", "Brand": "Microsoft", "Price": "11000", "Wholesale-Price": "10500", "Quantity": "45" },
+          { "id": 11, "Name": "Asus ZenBook Pro", "Brand": "Asus", "Price": "9500", "Wholesale-Price": "9000", "Quantity": "30" },
+          { "id": 12, "Name": "MacBook Pro 16", "Brand": "Apple", "Price": "25000", "Wholesale-Price": "24000", "Quantity": "12" },
+          { "id": 13, "Name": "LG OLED TV", "Brand": "LG", "Price": "18000", "Wholesale-Price": "17000", "Quantity": "8" },
+          { "id": 14, "Name": "Huawei MateBook X Pro", "Brand": "Huawei", "Price": "10500", "Wholesale-Price": "10000", "Quantity": "25" },
+          { "id": 15, "Name": "Acer Predator Helios 300", "Brand": "Acer", "Price": "13000", "Wholesale-Price": "12500", "Quantity": "40" },
+          { "id": 16, "Name": "Xiaomi Mi 13", "Brand": "Xiaomi", "Price": "9500", "Wholesale-Price": "9000", "Quantity": "50" },
+          { "id": 17, "Name": "Motorola Edge 40", "Brand": "Motorola", "Price": "8500", "Wholesale-Price": "8000", "Quantity": "20" },
+          { "id": 18, "Name": "Oppo Find X6", "Brand": "Oppo", "Price": "12000", "Wholesale-Price": "11500", "Quantity": "30" },
+          { "id": 19, "Name": "Realme GT 2 Pro", "Brand": "Realme", "Price": "7000", "Wholesale-Price": "6500", "Quantity": "45" },
+          { "id": 20, "Name": "Vivo X90 Pro", "Brand": "Vivo", "Price": "13000", "Wholesale-Price": "12500", "Quantity": "25" },
+          { "id": 21, "Name": "Huawei P60 Pro", "Brand": "Huawei", "Price": "11000", "Wholesale-Price": "10500", "Quantity": "30" },
+          { "id": 22, "Name": "Nokia G400", "Brand": "Nokia", "Price": "5000", "Wholesale-Price": "4500", "Quantity": "60" },
+          { "id": 23, "Name": "Google Nest Hub Max", "Brand": "Google", "Price": "3000", "Wholesale-Price": "2800", "Quantity": "50" },
+          { "id": 24, "Name": "Apple Watch Ultra", "Brand": "Apple", "Price": "7500", "Wholesale-Price": "7000", "Quantity": "40" },
+          { "id": 25, "Name": "Bose QuietComfort 45", "Brand": "Bose", "Price": "3500", "Wholesale-Price": "3300", "Quantity": "50" },
+          { "id": 26, "Name": "Sony WH-1000XM5", "Brand": "Sony", "Price": "4500", "Wholesale-Price": "4200", "Quantity": "35" },
+          { "id": 27, "Name": "Samsung Galaxy Buds 2", "Brand": "Samsung", "Price": "2500", "Wholesale-Price": "2200", "Quantity": "70" },
+          { "id": 28, "Name": "JBL Flip 5", "Brand": "JBL", "Price": "2000", "Wholesale-Price": "1800", "Quantity": "100" },
+          { "id": 29, "Name": "Apple iPad Pro 12.9", "Brand": "Apple", "Price": "17000", "Wholesale-Price": "16000", "Quantity": "20" },
+          { "id": 30, "Name": "Samsung Galaxy Tab S8", "Brand": "Samsung", "Price": "13000", "Wholesale-Price": "12000", "Quantity": "25" }
+        ]
+      }
+      
